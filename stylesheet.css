@@ -1,0 +1,109 @@
+.navigation-bar{
+  background-color: rgb(44, 36, 36);
+}
+
+.Title-Name{
+  font-size: 40px;
+  color:white;
+  font-family: Arial;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.Home{
+  background-color: rgb(92, 92, 92);
+  color: white;
+  height: 36px;
+  border-width: thin;
+  width: 60px;
+  border-radius: 18px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  margin-left: 50px;
+}
+.Home:hover{
+  opacity: 0.8;
+}
+
+.About{
+  background-color: rgb(92, 92, 92);
+  color: white;
+  height: 36px;
+  border-width: thin;
+  width: 60px;
+  border-radius: 18px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.About:hover{
+  opacity: 0.8
+}
+
+.Projects{
+  background-color: rgb(92, 92, 92);
+  color: white;
+  height: 36px;
+  border-width: thin;
+  width: 60px;
+  border-radius: 18px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.Projects:hover{
+  opacity: 0.8;
+}
+
+.Blogs{
+  background-color: rgb(92, 92, 92);
+  color: white;
+  height: 36px;
+  border-width: thin;
+  width: 60px;
+  border-radius: 18px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.Blogs:hover{
+  opacity:0.8;
+}
+
+.welcome{
+  color: gray;
+  background-color:rgb(44, 36, 36);
+  margin-top:500px;
+  height: 200px;
+  text-align:center;
+}
+.ccna{
+  background-image: url('ccna\ photo.png');
+  background-repeat: no-repeat;
+  width: 250x;
+  height:250px;
+  margin-bottom:20px;
+  background-position:center;
+}
+.aboutme-summary{
+  color:rgb(88, 87, 87);
+  width: 500px;
+  text-align: center;
+  display:block;
+  margin-left: 40%;
+
+}
+.copyright{
+  margin-left: 50%;
+}
+.mid{
+  text-align:center;
+  display:block;
+  margin-top: 350px;
+}
+.blog-links{
+  text-align:center;
+}
+.project-list{
+  color:red;
+  size:30px;
+}
